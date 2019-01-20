@@ -35,4 +35,4 @@ Going back one directory
 cd ..
 ```
 ## Cloning repositories
-If your repository is already created , you have to merch boht folders 
+If your repository is already created , you have to merch both folders 
